@@ -5,6 +5,7 @@ I'm working as a Senior Software Engineer at [adidas Runtastic](https://www.runt
 
 Tech stack:
 - Kotlin
+- Java
 - Git
 - Android Studio / IntelliJ IDEA
 - SQL
