@@ -26,4 +26,5 @@ More:
 - 😄 Pronouns: he/him
 
 StackOverflow:
+
 [![Michael Troger StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5155371)](https://stackoverflow.com/users/5155371/michael-troger)
