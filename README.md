@@ -25,4 +25,5 @@ More:
 - 📫 How to reach me: [Email](mailto:github@troger.app), [Linkedin](https://www.linkedin.com/in/michaeltroger/)
 - 😄 Pronouns: he/him
 
+StackOverflow:
 [![Michael Troger StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5155371)](https://stackoverflow.com/users/5155371/michael-troger)
