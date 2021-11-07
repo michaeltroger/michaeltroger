@@ -13,7 +13,7 @@ Tech stack:
 - HTML
 - Linux
 
-I was lucky to try many more technologies (e.g. C#, C++, Unity, Python, Scala) in different projects, but the technologies above I'm currently most confident with. From my experience a good developer can handle learning a new programming language or tool rather quickly since the concepts are mostly similar.
+I was lucky to try many more technologies (e.g. C#, C++, Unity, Python, Scala, Node.js) in different projects, but the technologies above I'm currently most confident with. From my experience a good developer can handle learning a new programming language or tool rather quickly since the concepts are mostly similar.
 
 More:
 - 🔭 I’m currently working on several open-source projects, all of them hosted on GitHub
