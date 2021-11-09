@@ -12,6 +12,7 @@ Tech stack:
 - Android Studio / IntelliJ IDEA
 - Jira / Confluence / Bitbucket
 - Gradle
+- Jenkins
 - SQL
 - Linux
 - JavaScript
