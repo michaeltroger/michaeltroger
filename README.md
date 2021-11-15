@@ -13,7 +13,7 @@ Tech stack:
 I was lucky to try many more technologies (e.g. JavaScript, C#, C++, Unity, Python, Scala, Node.js) in different projects, but the technologies above I'm currently most confident with. From my experience a good developer can handle learning a new programming language or tool rather quickly since the concepts are mostly similar.
 
 More:
-- 🔭 I’m currently working on several open-source projects, all of them hosted on GitHub
+- 🔭 I’m currently working on [Green Pass PDF Wallet](https://github.com/michaeltroger/greenpass-android), an open-source Android app with almost 100000 downloads in Google Play
 - 🌱 I’m currently learning about Kotlin Multiplatform
 - 📱 My apps: [Google Play developer page](https://play.google.com/store/apps/dev?id=8534329847513004090)
 - 💬 More about me: [Michael Troger's personal website](https://michaeltroger.com)
