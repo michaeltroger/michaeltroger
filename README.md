@@ -26,6 +26,10 @@ More:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm shortly visible in a promotion video of Google - [Android Developer Story of Runtastic](https://www.youtube.com/watch?v=u7srmOZyhDE)
 
+Follow me on Stack Overflow:
+<br>
 <a href="https://stackoverflow.com/users/5155371/michael-troger"><img src="https://stackoverflow.com/users/flair/5155371.png" width="208" height="58" alt="profile for Michael Troger at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Michael Troger at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-[GitHub Gist](https://gist.github.com/michaeltroger)
+[Follow me on GitLab](https://gitlab.com/michaeltroger)
+<br>
+[My GitHub Gist](https://gist.github.com/michaeltroger)
