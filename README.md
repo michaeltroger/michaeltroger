@@ -22,7 +22,7 @@ More:
 - ✈️ I attended the KotlinConf 2019 in Copenhagen and the Droidcon 2023 in London
 - 📱 My apps: [Google Play developer page](https://play.google.com/store/apps/dev?id=8534329847513004090)
 - 💬 More about me: [Michael Troger's personal website](https://michaeltroger.com)
-- 📫 How to reach me: [Email](mailto:github@troger.app), [Linkedin](https://www.linkedin.com/in/michaeltroger/)
+- 📫 How to reach me: [Email](https://michaeltroger.com/contact), [Linkedin](https://www.linkedin.com/in/michaeltroger/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm shortly visible in a promotion video of Google - [Android Developer Story of Runtastic](https://www.youtube.com/watch?v=u7srmOZyhDE)
 
