@@ -20,7 +20,7 @@ More:
 - 🔭 I'm currently working on [Green Pass PDF Wallet](https://github.com/michaeltroger/greenpass-android), an open-source Android app with ~150,000 downloads in Google Play
 - 🌱 I’m currently learning about Kotlin Multiplatform see e.g. my [Latin To Cyrillic](https://github.com/michaeltroger/latin-to-cyrillic) library that is available on Maven Central
 - ✈️ I attended the KotlinConf 2019 in Copenhagen and the Droidcon 2023 in London
-- 📱 My apps: [Google Play developer page](https://play.google.com/store/apps/dev?id=8534329847513004090)
+- 📱 My apps: [Google Play developer page](https://play.google.com/store/apps/developer?id=Michael+Troger)
 - 💬 More about me: [Michael Troger's personal website](https://michaeltroger.com)
 - 📫 How to reach me: [Email](https://michaeltroger.com/contact), [Linkedin](https://www.linkedin.com/in/michaeltroger/)
 - 😄 Pronouns: he/him
@@ -30,6 +30,8 @@ Follow me on Stack Overflow:
 <br>
 <a href="https://stackoverflow.com/users/5155371/michael-troger"><img src="https://stackoverflow.com/users/flair/5155371.png" width="208" height="58" alt="profile for Michael Troger at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Michael Troger at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
+[Google Developer Profile](https://g.dev/michaeltroger)
+<br>
 [Follow me on GitLab](https://gitlab.com/michaeltroger)
 <br>
 [My GitHub Gist](https://gist.github.com/michaeltroger)
