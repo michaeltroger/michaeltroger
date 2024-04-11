@@ -1,7 +1,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/michaeltroger?style=flat)](https://github.com/michaeltroger) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michaeltroger/)
-[![Header](header.jpg)](https://github.com/michaeltroger)
 ### Hi 👋, I'm Michael Troger, Android Developer!
-I'm working as a Senior Software Engineer at [adidas Runtastic](https://www.runtastic.com), where I work on Adidas apps as well as on in-house libraries. Please note that is a private account so opinions expressed don't represent my employer.
+I'm working as a Senior Software Engineer at [adidas Digital Sports](https://careers.adidas-group.com/locations/hubs/wien), where I work on Adidas apps as well as on in-house libraries. Please note that is a private account so opinions expressed don't represent my employer.
 
 I have a Master's degree in Mobile Computing and I'm an expert on the Android platform. I have however also a broad unterstanding of web technologies. I have several years of experience in international Scrum teams. 
 
