@@ -1,6 +1,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/michaeltroger?style=flat)](https://github.com/michaeltroger) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michaeltroger/)
 ### Hi 👋, I'm Michael Troger, Android Developer!
-I'm working as a Senior Software Engineer at [adidas Digital Sports](https://careers.adidas-group.com/locations/hubs/wien), where I work on Adidas apps as well as on in-house libraries. Please note that is a private account so opinions expressed don't represent adidas.
+I'm working as an Android Developer at [Bora]([https://careers.adidas-group.com/locations/hubs/wien](https://bora.com)), where I work on software for kitchen hardware. Please note that is a private account so opinions expressed don't represent Bora.
 
 I have a Master's degree in Mobile Computing and I'm an expert on the Android platform. I have however also a broad unterstanding of web technologies. I have several years of experience in international Scrum teams. 
 
@@ -16,8 +16,7 @@ Tech stack:
 I was lucky to try many more technologies (e.g. JavaScript, C#, C++, Unity, Python, Scala, Node.js) in different projects, but the technologies above I'm currently most confident with. From my experience a good developer can handle learning a new programming language or tool rather quickly since the concepts are mostly similar.
 
 More:
-- 🔭 I'm currently working on [Green Pass PDF Wallet](https://github.com/michaeltroger/greenpass-android), an open-source Android app with ~150,000 downloads in Google Play
-- 🌱 I’m currently learning about Kotlin Multiplatform see e.g. my [Latin To Cyrillic](https://github.com/michaeltroger/latin-to-cyrillic) library that is available on Maven Central
+- 🔭 I'm currently working on [PDF Wallet](https://github.com/michaeltroger/pdfwallet-android), an open-source Android app with ~150,000 downloads in Google Play
 - ✈️ I attended the KotlinConf 2019 in Copenhagen and the Droidcon 2023 in London
 - 📱 My apps: [Google Play developer page](https://play.google.com/store/apps/developer?id=Michael+Troger)
 - 💬 More about me: [Michael Troger's personal website](https://michaeltroger.com)
