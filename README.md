@@ -1,7 +1,5 @@
 [![GitHub stars](https://img.shields.io/github/stars/michaeltroger?style=flat)](https://github.com/michaeltroger) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michaeltroger/)
 ### Hi 👋, I'm Michael Troger, Android Developer!
-I'm working as an Android Developer at [Bora]([https://careers.adidas-group.com/locations/hubs/wien](https://bora.com)), where I work on software for kitchen hardware. Please note that is a private account so opinions expressed don't represent Bora.
-
 I have a Master's degree in Mobile Computing and I'm an expert on the Android platform. I have however also a broad unterstanding of web technologies. I have several years of experience in international Scrum teams. 
 
 In course of my studies, different jobs and freetime projects I was able to gain experience in a broad field of IT and media. To name some examples I engaged with things like frontend and backend web development, game development, computer graphics and computer vision, machine learning, augmented reality, augmented virtuality and computer hardware consulting. While I have a basic knowledge of media design (I earned my Bachelor in Media Technology and Media Design), my strength and interests clearly lie in the technical field. 
