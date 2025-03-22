@@ -1,8 +1,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/michaeltroger?style=flat)](https://github.com/michaeltroger) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michaeltroger/)
-### Hi 👋, I'm Michael Troger, Android Developer!
-I have a Master's degree in Mobile Computing and I'm an expert on the Android platform. I have however also a broad unterstanding of web technologies. I have several years of experience in international Scrum teams. 
-
-In course of my studies, different jobs and freetime projects I was able to gain experience in a broad field of IT and media. To name some examples I engaged with things like frontend and backend web development, game development, computer graphics and computer vision, machine learning, augmented reality, augmented virtuality and computer hardware consulting. While I have a basic knowledge of media design (I earned my Bachelor in Media Technology and Media Design), my strength and interests clearly lie in the technical field. 
+### Hi 👋, I'm Michael Troger!
+I'm a professional Android Developer from Austria. I code in Kotlin, leveraging Kotlin Multiplatform (KMP) and Jetpack Compose. In course of my studies, different jobs and freetime projects I was able to gain experience in a broad field of IT and media. To name some examples I engaged with things like frontend and backend web development, game development, computer graphics and computer vision, machine learning, augmented reality, augmented virtuality and computer hardware consulting. While I have a basic knowledge of media design, my strengths and interests clearly lie in the technical field. 
 
 [![Michael Troger's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeltroger&count_private=true)](https://github.com/michaeltroger) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltroger&layout=compact)](https://github.com/michaeltroger)
 
