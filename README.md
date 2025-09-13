@@ -13,7 +13,7 @@ I was lucky to try many more technologies (e.g. JavaScript, C#, C++, Unity, Pyth
 
 More:
 - 🔭 I'm currently working on [PDF Wallet](https://github.com/michaeltroger/pdfwallet-android), an open-source Android app with ~150,000 downloads in Google Play
-- ✈️ I attended the KotlinConf 2019 in Copenhagen and the Droidcon 2023 in London
+- ✈️ I attended the KotlinConf 2019 and 2025 in Copenhagen as well as the Droidcon 2023 in London
 - 📱 My apps: [Google Play developer page](https://play.google.com/store/apps/developer?id=Michael+Troger)
 - 💬 More about me: [Michael Troger's personal website](https://michaeltroger.com)
 - 📫 How to reach me: [Email](https://michaeltroger.com/contact), [Linkedin](https://www.linkedin.com/in/michaeltroger/)
