@@ -1,5 +1,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/michaeltroger?style=flat)](https://github.com/michaeltroger)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michaeltroger/)
+[![Profile views](https://komarev.com/ghpvc/?username=michaeltroger)](https://github.com/michaeltroger)
 
 ### Hi 👋, I'm Michael Troger!
 
@@ -12,7 +13,13 @@ I primarily code in **Kotlin**, leveraging **Kotlin Multiplatform (KMP)** and **
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" title="Android" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" title="Jira" width="50" height="50"/><img src="https://img.icons8.com/?size=100&id=h8EoAfgRDYLo&format=png&color=000000" alt="Confluence" title="Confluence" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" alt="Bitbucket" title="Bitbucket" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="Gradle" title="Gradle" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="50" height="50"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltroger&layout=compact)](https://github.com/michaeltroger)
+---
+
+## 📊 GitHub Insights
+
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaeltroger&show_icons=true&hide_border=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltroger&layout=compact&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=michaeltroger&theme=default)
 
 ---
 
