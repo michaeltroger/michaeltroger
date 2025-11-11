@@ -18,8 +18,7 @@ I primarily code in **Kotlin**, leveraging **Kotlin Multiplatform (KMP)** and **
 ### 📊 GitHub Insights
 
 ![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaeltroger&show_icons=true&hide_border=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltroger&layout=compact&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=michaeltroger&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltroger&layout=compact&hide_border=true)
 
 ---
 
