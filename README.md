@@ -25,21 +25,12 @@ I primarily code in **Kotlin**, leveraging **Kotlin Multiplatform (KMP)** and **
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: You can briefly spot me in a [Google promotion video – Android Developer Story of Runtastic](https://www.youtube.com/watch?v=u7srmOZyhDE).
 
+**Find me also on:**
+[Stack Overflow](https://stackoverflow.com/users/5155371/michael-troger) • [Google Developer](https://g.dev/michaeltroger) • [GitLab](https://gitlab.com/michaeltroger)
+
 ---
 
 ### 📊 GitHub Insights
 
 ![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaeltroger&show_icons=true&hide_border=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltroger&layout=compact&hide_border=true)
-
----
-
-### 🧠 Connect With Me
-
-Follow me on Stack Overflow:  
-<a href="https://stackoverflow.com/users/5155371/michael-troger">
-  <img src="https://stackoverflow.com/users/flair/5155371.png" width="208" height="58" alt="profile for Michael Troger at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Michael Troger at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
-
-[Google Developer Profile](https://g.dev/michaeltroger)  
-[Follow me on GitLab](https://gitlab.com/michaeltroger)
