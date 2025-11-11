@@ -1,6 +1,5 @@
 [![GitHub stars](https://img.shields.io/github/stars/michaeltroger?style=flat)](https://github.com/michaeltroger)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michaeltroger/)
-[![Profile views](https://komarev.com/ghpvc/?username=michaeltroger)](https://github.com/michaeltroger)
 
 ### 👋 Hi, I'm Michael Troger
 
