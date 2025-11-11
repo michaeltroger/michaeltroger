@@ -2,7 +2,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michaeltroger/)
 [![Profile views](https://komarev.com/ghpvc/?username=michaeltroger)](https://github.com/michaeltroger)
 
-### Hi 👋, I'm Michael Troger!
+### 👋 Hi, I'm Michael Troger
 
 I'm a professional **Android Developer** from Austria.  
 I primarily code in **Kotlin**, leveraging **Kotlin Multiplatform (KMP)** and **Jetpack Compose**.
