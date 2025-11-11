@@ -16,13 +16,13 @@ I primarily code in **Kotlin**, leveraging **Kotlin Multiplatform (KMP)** and **
 
 ### 🌟 About Me
 
-- 🔭 I'm currently working on [PDF Wallet](https://github.com/michaeltroger/pdfwallet-android), an open-source Android app with **~150,000 downloads** on Google Play.
-- ✈️ I attended **KotlinConf 2019 & 2025** in Copenhagen and **Droidcon 2023** in London.
-- 📱 My apps: [Google Play Developer Page](https://play.google.com/store/apps/developer?id=Michael+Troger)
+- 🔭 Current project: [PDF Wallet](https://github.com/michaeltroger/pdfwallet-android) — open-source Android app with **~150,000 downloads**.
+- ✈️ Conferences attended: **KotlinConf 2019 & 2025** (Copenhagen), **Droidcon 2023** (London).
+- 📱 Apps: [Google Play Developer Page](https://play.google.com/store/apps/developer?id=Michael+Troger)
 - 💬 Learn more: [michaeltroger.com](https://michaeltroger.com)
-- 📫 How to reach me: [Email](https://michaeltroger.com/contact) | [LinkedIn](https://www.linkedin.com/in/michaeltroger/)
-- 😄 Pronouns: he/him  
-- ⚡ Fun fact: You can briefly spot me in a [Google promotion video – Android Developer Story of Runtastic](https://www.youtube.com/watch?v=u7srmOZyhDE).
+- 📫 Contact: [Email](https://michaeltroger.com/contact) | [LinkedIn](https://www.linkedin.com/in/michaeltroger/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Featured in a [Google promotion video](https://www.youtube.com/watch?v=u7srmOZyhDE)
 
 **Find me also on:**
 [Stack Overflow](https://stackoverflow.com/users/5155371/michael-troger) • [Google Developer](https://g.dev/michaeltroger) • [GitLab](https://gitlab.com/michaeltroger)
