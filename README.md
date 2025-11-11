@@ -15,14 +15,7 @@ I primarily code in **Kotlin**, leveraging **Kotlin Multiplatform (KMP)** and **
 
 ---
 
-### 📊 GitHub Insights
-
-![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaeltroger&show_icons=true&hide_border=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltroger&layout=compact&hide_border=true)
-
----
-
-### 🌟 More About Me
+### 🌟 About Me
 
 - 🔭 I'm currently working on [PDF Wallet](https://github.com/michaeltroger/pdfwallet-android), an open-source Android app with **~150,000 downloads** on Google Play.
 - ✈️ I attended **KotlinConf 2019 & 2025** in Copenhagen and **Droidcon 2023** in London.
@@ -31,6 +24,13 @@ I primarily code in **Kotlin**, leveraging **Kotlin Multiplatform (KMP)** and **
 - 📫 How to reach me: [Email](https://michaeltroger.com/contact) | [LinkedIn](https://www.linkedin.com/in/michaeltroger/)
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: You can briefly spot me in a [Google promotion video – Android Developer Story of Runtastic](https://www.youtube.com/watch?v=u7srmOZyhDE).
+
+---
+
+### 📊 GitHub Insights
+
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaeltroger&show_icons=true&hide_border=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltroger&layout=compact&hide_border=true)
 
 ---
 
