@@ -26,10 +26,3 @@ I primarily code in **Kotlin**, leveraging **Kotlin Multiplatform (KMP)** and **
 
 **Find me also on:**
 [Stack Overflow](https://stackoverflow.com/users/5155371/michael-troger) • [Google Developer](https://g.dev/michaeltroger) • [GitLab](https://gitlab.com/michaeltroger)
-
----
-
-### 📊 GitHub Insights
-
-![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaeltroger&show_icons=true&hide_border=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltroger&layout=compact&hide_border=true)
