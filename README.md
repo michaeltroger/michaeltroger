@@ -16,7 +16,7 @@ I primarily code in **Kotlin**, leveraging **Kotlin Multiplatform (KMP)** and **
 
 ### 🌟 About Me
 
-- 🔭 Current project: [PDF Wallet](https://github.com/michaeltroger/pdfwallet-android) — open-source Android app with **~150,000 downloads**.
+- 🔭 Current project: [PDF Wallet](https://play.google.com/store/apps/details) — Android app with **~150,000 downloads**.
 - ✈️ Conferences attended: **KotlinConf 2019 & 2025** (Copenhagen), **Droidcon 2023** (London).
 - 📱 Apps: [Google Play Developer Page](https://play.google.com/store/apps/developer?id=Michael+Troger)
 - 💬 Learn more: [michaeltroger.com](https://michaeltroger.com)
