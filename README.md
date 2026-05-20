@@ -16,7 +16,9 @@ I primarily code in **Kotlin**, leveraging **Kotlin Multiplatform (KMP)** and **
 
 ### 🌟 About Me
 
-- 🔭 Current project: [PDF Wallet](https://play.google.com/store/apps/details?id=com.michaeltroger.gruenerpass&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) — Android app with **~150,000 downloads**.
+- 🔭 Current projects:
+  - PDFWallet Vault - [Android](https://play.google.com/store/apps/details?id=com.michaeltroger.gruenerpass&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1), [macOS & iOS](https://apps.apple.com/app/6767864357) app with **~150,000 downloads**.
+  - Cyrillic to Latin Transliterator - [Android](https://play.google.com/store/apps/details?id=at.mikenet.serbianlatintocyrillic), [macOS & iOS](https://apps.apple.com/app/cyrillic-to-latin/id6758277969) app with **~50,000 downloads**.
 - ✈️ Conferences attended: **KotlinConf 2019 & 2025** (Copenhagen), **Droidcon 2023** (London).
 - 📱 Apps: [Google Play Developer Page](https://play.google.com/store/apps/developer?id=Michael+Troger)
 - 💬 Learn more: [michaeltroger.com](https://michaeltroger.com)
