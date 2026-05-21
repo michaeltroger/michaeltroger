@@ -20,7 +20,7 @@ I primarily code in **Kotlin**, leveraging **Kotlin Multiplatform (KMP)** and **
   - PDFWallet Vault - [Android](https://play.google.com/store/apps/details?id=com.michaeltroger.gruenerpass&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1), [macOS & iOS](https://apps.apple.com/app/6767864357) app with **~150,000 downloads**.
   - Cyrillic to Latin Transliterator - [Android](https://play.google.com/store/apps/details?id=at.mikenet.serbianlatintocyrillic), [macOS & iOS](https://apps.apple.com/app/cyrillic-to-latin/id6758277969) app with **~50,000 downloads**.
 - ✈️ Conferences attended: **KotlinConf 2019 & 2025** (Copenhagen), **Droidcon 2023** (London).
-- 📱 Apps: [Google Play Developer Page](https://play.google.com/store/apps/developer?id=Michael+Troger)
+- 📱 Apps: [Google Play Developer Page](https://play.google.com/store/apps/developer?id=Michael+Troger), [Apple App Store Developer Page](https://apps.apple.com/us/developer/michael-troger/id1871929506)
 - 💬 Learn more: [michaeltroger.com](https://michaeltroger.com)
 - 📫 Contact: [Email](https://michaeltroger.com/contact) | [LinkedIn](https://www.linkedin.com/in/michaeltroger/)
 - 😄 Pronouns: he/him
